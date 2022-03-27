@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Game.ChooseCompanionController.YumeButtonListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/ChooseCompanionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="5420" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Game.EncounterController.ChooseCompanionListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EncounterController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="2867" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="Game.LoseController" project="CCPROG3" 
+    file="/CCPROG3/src/Game/LoseController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="86" width="182" x="571" y="65"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Game.ChooseCompanionController.YukiButtonListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/ChooseCompanionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="5695" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Game.ChooseCompanionController.YumePanelListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/ChooseCompanionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="5970" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Game.EndingView" project="CCPROG3" file="/CCPROG3/src/Game/EndingView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="258" x="1715" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Game.LogInView" project="CCPROG3" file="/CCPROG3/src/Game/LogInView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="266" width="276" x="1124" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Game.ChooseCompanionController.KirinPanelListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/ChooseCompanionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="6245" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Game.Health" project="CCPROG3" file="/CCPROG3/src/Game/Health.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="122" width="255" x="276" y="65"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="Game.EncounterController.ButtonNextListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EncounterController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="3142" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Game.EndingController.QuitListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EndingController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="2013" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Game.ChooseCompanionController.SamePanelListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/ChooseCompanionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="6520" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Game.LoseController.PlayAgainListener2" project="CCPROG3" 
+    file="/CCPROG3/src/Game/LoseController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="276" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Game.EncounterController.AfterEncounterListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EncounterController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="3417" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="Game.ChooseCompanionController.YukiPanelListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/ChooseCompanionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="6795" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Game.LogInController" project="CCPROG3" 
+    file="/CCPROG3/src/Game/LogInController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="276" x="1440" y="65"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="Game.LogInController.CreateButtonListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/LogInController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="1440" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="Game.EndingController.PlayAgainListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EndingController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="2288" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="Game.EndingController" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EndingController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="265" x="2013" y="65"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="Game.ChooseCompanionController.KirinButtonListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/ChooseCompanionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="7070" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="Game.Player" project="CCPROG3" file="/CCPROG3/src/Game/Player.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="212" width="222" x="2563" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="Game.Game" project="CCPROG3" file="/CCPROG3/src/Game/Game.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="104" width="136" x="1028" y="65"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="Game.ChooseCompanionController.SameButtonListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/ChooseCompanionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="7345" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="Game.Companion" project="CCPROG3" file="/CCPROG3/src/Game/Companion.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="284" width="244" x="2806" y="1523"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="Game.EncounterController.ButtonCompanion2Listener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EncounterController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="3692" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="Game.EncounterController.ConfirmButtonListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EncounterController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="3967" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="Game.EncounterController" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EncounterController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="266" width="420" x="3417" y="65"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="Game.EncounterView" project="CCPROG3" file="/CCPROG3/src/Game/EncounterView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1112" width="313" x="4242" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="Game.EncounterController.ButtonCompanion1Listener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EncounterController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="4595" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="Game.LoseView" project="CCPROG3" file="/CCPROG3/src/Game/LoseView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="176" width="258" x="551" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="Game.ChooseCompanionController" project="CCPROG3" 
+    file="/CCPROG3/src/Game/ChooseCompanionController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="248" width="396" x="6245" y="65"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="Game.LoseController.QuitListener2" project="CCPROG3" 
+    file="/CCPROG3/src/Game/LoseController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="849" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="Game.EncounterController.ButtonCompanion3Listener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EncounterController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="4870" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="Game.EncounterController.AttackNextButtonListener" project="CCPROG3" 
+    file="/CCPROG3/src/Game/EncounterController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="104" width="235" x="5145" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="Game.ChooseCompanionView" project="CCPROG3" 
+    file="/CCPROG3/src/Game/ChooseCompanionView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="500" width="269" x="7620" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="36">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="37" name="player"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="40" name="logInView"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="42">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <nesting id="43">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="23"/>  
+  </nesting>  
+  <nesting id="44">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <nesting id="45">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <association id="46">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="47" name="player"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="49">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="34"/>  
+  </nesting>  
+  <association id="50">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="51" name="theView"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="53">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <nesting id="54">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <nesting id="55">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <association id="56">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="57" name="player"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="59">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <nesting id="60">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <association id="61">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="62" name="playerCompanions"/>      
+      <multiplicity id="63" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="64">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <nesting id="65">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <association id="66">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="67" name="view"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="69">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <nesting id="70">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <nesting id="71">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="29"/>  
+  </nesting>  
+  <association id="72">    
+    <bendpoint x="2815" y="371"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="73" name="chosenCompanion"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="75">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <nesting id="76">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <association id="77">    
+    <bendpoint x="2836" y="371"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="78" name="enemy"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="80">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <association id="81">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="82" name="view"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="84">    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <nesting id="85">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <association id="86">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="87" name="view"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="89">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="26"/>  
+  </nesting>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
